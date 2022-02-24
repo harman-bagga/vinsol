@@ -1,0 +1,36 @@
+.start-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+
+}
+.start-btn{
+    margin-top: 20px;
+    width: 200px;
+    background-color: #12b886 !important;
+}
+.btn.btn-secondary{
+    margin-top: 20px;
+    width: 200px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+}
+li.list-group-item {
+    width: 301px;
+}
+.row{
+    margin: 0 !important;
+}
+li.list-group-item.d-flex.flex-column {
+    margin-bottom: 10px;
+}
+ul.list-group.operator{
+    margin-bottom: 30px;
+}
